@@ -11,6 +11,7 @@ library(ggplot2)
 library(fuzzySim)
 library(readr)
 
+####Code written by Shalanda and Lauren 
 
 MCRLTER2 <- read_csv("0_raw_data/MCRLTER.csv")
 head(MCRLTER2)
